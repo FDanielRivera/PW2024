@@ -1,0 +1,21 @@
+{
+    "mensaje": 
+    {
+        "id": "123456",
+        "datos": 
+        {
+            "titulo": 
+            {
+                "hora": "8:15 am",
+                "proveedor": "",
+                "contenidos": "Sensor de Humedad AB123"
+            },
+            "nombre-sensor": "Parcela 5",
+            "contenido": "Humedad normal",
+            "valor": "45.5",
+            "fechaDeLectura": "2024-02-05"
+    
+        }
+    }
+    
+}
