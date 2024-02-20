@@ -1,0 +1,22 @@
+h1 {
+    color:aquamarine;
+    text-align: center;
+}
+
+.azul {
+    color:blue;
+    text-align: right;
+}
+
+#chocolate {
+    color: chocolate !important;
+    font-variant: small-caps;
+}
+
+li {
+    background-color: rgb(174, 167, 167);
+}
+
+ul > li:first-child {
+    background-color: rgb(132, 229, 132);
+}
