@@ -1,5 +1,42 @@
 .contenedor{
-    width: 350px;
+    width: 100%;
     height: 400px;
     background-color: aquamarine;
+    top: 0px;
+    position: relative;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    margin: 0px;
+}
+
+#contenidos {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: blueviolet;
+}
+
+.caja {
+    top: 10px;
+    height: 100%;
+}
+
+#uno.caja {
+    background-color:brown;
+    flex-grow: 0.1;
+    max-width: 120px;
+}
+
+#dos.caja {
+    background-color: chocolate;
+    flex-grow: 0.9;
+}
+
+#superior article {
+    background-color: chartreuse;
+    height: 20px;
 }
