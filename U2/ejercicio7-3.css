@@ -1,0 +1,69 @@
+.contenedor{
+    width: 100%;
+    height: 400px;
+    background-color: aquamarine;
+    top: 0px;
+    position: relative;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+
+}
+
+body {
+    margin: 0px;
+}
+
+#contenidos {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    gap: 5px;
+}
+
+.caja {
+    top: 10px;
+    height: 100%;
+    border: 4px solid gray;
+}
+
+#uno.caja {
+    background-color:rgb(220, 219, 219);
+    flex-grow: 0.3333;
+    border: 3px solid orangered;
+
+}
+
+#dos.caja {
+    background-color: rgb(220, 219, 219);
+    flex-grow: 0.3333;
+    border: 3px solid green;
+}
+
+#tres.caja {
+    background-color: rgb(220, 219, 219);
+    flex-grow: 0.3333;
+    border: 3px solid blue;
+}
+
+.c1 {
+    width: 99%;
+    height: 100px;
+    background-color: gray;
+    border: 4px solid orangered;
+}
+
+.c2 {
+    width: 99%;
+    height: 100px;
+    background-color: gray;
+    border: 4px solid green;
+}
+
+.c3 {
+    width: 99%;
+    height: 100px;
+    background-color: gray;
+    border: 4px solid blue;
+}
