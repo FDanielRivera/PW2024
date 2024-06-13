@@ -69,13 +69,16 @@ root.render(
     {/* <Ejercicio2 nombre="Daniel" año="2024"/>
     <Ejercicio2 año="2024"/> */}
     {/* <Ejercicio3/> */}
-    {/* <Ejercicio4 imagen="https://http2.mlstatic.com/D_NQ_NP_779427-MLM49035819339_022022-O.webp" Titulo="Titulo 1" texto="Some quick example text to build on the card title and make up the bulk of the card's content."/> */}
-    {/* <Ejercicio4b alert="Lorem ipsum dolor sit amet, consectetur adipiscing elit." tipoA="alert alert-primary"/>
+    {/* <Ejercicio4 
+     imagen="https://http2.mlstatic.com/D_NQ_NP_779427-MLM49035819339_022022-O.webp"
+     Titulo="Titulo 1" 
+     texto="Some quick example text to build on the card title and make up the bulk of the card's content."/>
+    <Ejercicio4b alert="Lorem ipsum dolor sit amet, consectetur adipiscing elit." tipoA="alert alert-primary"/>
     <Ejercicio4b alert="Lorem ipsum dolor sit amet, consectetur adipiscing elit." tipoA="alert alert-dark"/>
     <Ejercicio4b alert="Lorem ipsum dolor sit amet, consectetur adipiscing elit." tipoA="alert alert-danger"/>
     <Ejercicio4b alert="Lorem ipsum dolor sit amet, consectetur adipiscing elit." tipoA="alert alert-warning"/> */}
     {/* ejercicio5 */}
-    {
+    {/* {
       arregloDatos.map((dato) => {
         return(
           <Ejercicio4 
@@ -84,7 +87,7 @@ root.render(
           texto={dato.texto}/>
         ); 
       })
-    }
+    } */}
 
     {/* ejercicio6 */}
     {

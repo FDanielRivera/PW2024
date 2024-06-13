@@ -23,7 +23,7 @@ export default function Ejercicio12(){
             <label htmlFor='Apellido'>Escriba su Apellido</label>
             <br/>
             <input type='text' id='apellido'/>
-
+            <br/>
             <br/>
             <input onClick={() => GuardarNombre()} type='text' value='Guardar Estado'/>
             <p>Hola, {nombre} {apellido} </p>

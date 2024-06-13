@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "1GHz1IbE/DRPz4qrwWQIPkUAm3/or7xD7y5U9J84vzQ=",
+  "Source": "ProyectoMuebleria",
+  "BasePath": "_content/ProyectoMuebleria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoMuebleria\\wwwroot",
+      "Source": "ProyectoMuebleria",
+      "ContentRoot": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\wwwroot\\",
+      "BasePath": "_content/ProyectoMuebleria",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

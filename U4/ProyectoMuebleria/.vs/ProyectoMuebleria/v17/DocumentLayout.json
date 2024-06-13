@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|c:\\pw2024\\pw2024\\u4\\proyectomuebleria\\proyectomuebleria\\controllers\\muebleriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|solutionrelative:proyectomuebleria\\controllers\\muebleriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|c:\\pw2024\\pw2024\\u4\\proyectomuebleria\\proyectomuebleria\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|solutionrelative:proyectomuebleria\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|c:\\pw2024\\pw2024\\u4\\proyectomuebleria\\proyectomuebleria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|solutionrelative:proyectomuebleria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|c:\\pw2024\\pw2024\\u4\\proyectomuebleria\\proyectomuebleria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|solutionrelative:proyectomuebleria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|c:\\pw2024\\pw2024\\u4\\proyectomuebleria\\proyectomuebleria\\models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|solutionrelative:proyectomuebleria\\models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|c:\\pw2024\\pw2024\\u4\\proyectomuebleria\\proyectomuebleria\\data\\micontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|solutionrelative:proyectomuebleria\\data\\micontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|c:\\pw2024\\pw2024\\u4\\proyectomuebleria\\proyectomuebleria\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA24E8B-B497-4508-9E26-CE95F94E626A}|ProyectoMuebleria\\ProyectoMuebleria.csproj|solutionrelative:proyectomuebleria\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProyectoMuebleria\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProyectoMuebleria\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAF8AAAAA2MzMzMwSwDsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:45:04.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoMuebleria\\Models\\Producto.cs",
+              "ToolTip": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Models\\Producto.cs",
+              "RelativeToolTip": "ProyectoMuebleria\\Models\\Producto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:38:54.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoMuebleria\\appsettings.json",
+              "ToolTip": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\appsettings.json",
+              "RelativeToolTip": "ProyectoMuebleria\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T22:27:18.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiContexto.cs",
+              "DocumentMoniker": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Data\\MiContexto.cs",
+              "RelativeDocumentMoniker": "ProyectoMuebleria\\Data\\MiContexto.cs",
+              "ToolTip": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Data\\MiContexto.cs",
+              "RelativeToolTip": "ProyectoMuebleria\\Data\\MiContexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:57:30.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fabricante.cs",
+              "DocumentMoniker": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Models\\Fabricante.cs",
+              "RelativeDocumentMoniker": "ProyectoMuebleria\\Models\\Fabricante.cs",
+              "ToolTip": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Models\\Fabricante.cs",
+              "RelativeToolTip": "ProyectoMuebleria\\Models\\Fabricante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:03:33.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MuebleriaController.cs",
+              "DocumentMoniker": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Controllers\\MuebleriaController.cs",
+              "RelativeDocumentMoniker": "ProyectoMuebleria\\Controllers\\MuebleriaController.cs",
+              "ToolTip": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Controllers\\MuebleriaController.cs",
+              "RelativeToolTip": "ProyectoMuebleria\\Controllers\\MuebleriaController.cs",
+              "ViewState": "AQIAAJoAAACA9v///38swKoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:50:27.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ProyectoMuebleria\\Models\\Categoria.cs",
+              "ToolTip": "C:\\pw2024\\PW2024\\U4\\ProyectoMuebleria\\ProyectoMuebleria\\Models\\Categoria.cs",
+              "RelativeToolTip": "ProyectoMuebleria\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:35:09.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
